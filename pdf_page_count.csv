@@ -1,0 +1,6 @@
+File Path,Number of Pages
+example_data/sample.pdf,2
+example_data/dir_1/sample.pdf,2
+example_data/dir_1/dir_1_1/sample.pdf,2
+example_data/dir_2/sample.pdf,2
+example_data/dir_2/dir_2_1/sample.pdf,2
